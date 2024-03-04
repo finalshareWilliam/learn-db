@@ -33,6 +33,7 @@ Exemplos de Transações:
 Inserir dados de novos alunos.
 Atualizar informações, como a idade dos alunos a cada ano.
 Excluir registros de alunos que se formaram ou transferiram.
+
 Empresa
 Introdução:
 Aqui, estamos desenvolvendo um sistema para gerenciar funcionários de uma empresa. A tabela Funcionarios conterá informações como nome, departamento e salário.
@@ -50,6 +51,7 @@ Exemplos de Transações:
 Adicionar novos funcionários ao sistema.
 Atualizar dados, como salários durante revisões salariais.
 Excluir funcionários que deixaram a empresa.
+
 Restaurante
 Introdução:
 Este cenário trata da gestão de um restaurante, especificamente o controle do menu. A tabela Pratos incluirá informações como nome do prato, tipo (entrada, prato principal, sobremesa) e preço.
@@ -67,6 +69,7 @@ Exemplos de Transações:
 Inserir novos pratos no menu.
 Atualizar preços dos pratos devido a mudanças nos custos dos ingredientes.
 Excluir pratos que foram retirados do menu.
+
 Loja Online
 Introdução:
 Este cenário envolve a criação de um sistema para uma loja online, gerenciando o inventário de produtos. A tabela Produtos armazenará detalhes como nome do produto, categoria e preço.
