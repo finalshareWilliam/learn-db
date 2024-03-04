@@ -1,1 +1,1 @@
-{"resources":{"Scripts/Script.sql":{"default-datasource":"postgres-jdbc-18dfae4a48b-7870c3ad12446fde"}}}
+{"resources":{"code/Aula3/dominios.sql":{"default-catalog":"postgres","default-schema":"public","default-datasource":"postgres-jdbc-18dfb157fd9-63dcea6c33d18c2c"}}}
