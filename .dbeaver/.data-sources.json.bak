@@ -8,9 +8,9 @@
 			"save-password": true,
 			"configuration": {
 				"host": "localhost",
-				"port": "5433",
+				"port": "5466",
 				"database": "postgres",
-				"url": "jdbc:postgresql://localhost:5433/postgres",
+				"url": "jdbc:postgresql://localhost:5466/postgres",
 				"configurationType": "MANUAL",
 				"home": "/opt/homebrew/Cellar/postgresql@14/14.11_1",
 				"type": "dev",
@@ -24,9 +24,9 @@
 	},
 	"connection-types": {
 		"dev": {
-			"name": "Desenvolvimento",
+			"name": "Development",
 			"color": "255,255,255",
-			"description": "Banco de dados de desenvolvimento",
+			"description": "Regular development database",
 			"auto-commit": true,
 			"confirm-execute": false,
 			"confirm-data-change": false,

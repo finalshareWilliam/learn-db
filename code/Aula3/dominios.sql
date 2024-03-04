@@ -15,6 +15,7 @@ Exemplos de Transações:
 Adicionar novos livros ao catálogo.
 Atualizar informações de livros existentes, como mudar um autor.
 Excluir livros antigos ou danificados.
+
 Escola
 Introdução:
 Este cenário envolve a criação de um sistema para gerenciar informações de alunos. A tabela Alunos incluirá detalhes como nome, idade e a turma à qual pertencem.
